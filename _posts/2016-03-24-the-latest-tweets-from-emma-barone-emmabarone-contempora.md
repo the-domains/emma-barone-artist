@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://twitter.com/emmabarone'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - hares
   - http
@@ -17,8 +17,8 @@ keywords:
   - creatives
   - design
 description: 'The latest Tweets from Emma Barone (@EmmaBarone). Contemporary Visual Artist / Creative Entrepreneur, Illustrator, Designer, Blogger, Photographer, Curator, Collaborator | Patron of the Arts. Birr, Ireland'
-datePublished: '2016-03-24T22:50:28.119Z'
-dateModified: '2016-03-24T22:50:11.177Z'
+datePublished: '2016-03-24T22:56:12.063Z'
+dateModified: '2016-03-24T22:52:02.939Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/659741164698996736/A_vnJ1Cz_400x400.jpg'
@@ -62,5 +62,3 @@ _context: 'http://schema.org'
 > The latest Tweets from Emma Barone (@EmmaBarone). Contemporary Visual Artist / Creative Entrepreneur, Illustrator, Designer, Blogger, Photographer, Curator, Collaborator | Patron of the Arts. Birr, Ireland
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b75dc1e-c80d-4310-9436-87c36ec18a99.jpg)
-
->
