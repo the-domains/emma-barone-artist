@@ -1,14 +1,10 @@
 ---
-author:
-  - name: emma-barone
-    url: 'http://emma-barone.tumblr.com'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://tumblr.com'
-  name: Tumblr
-  favicon: 'http://33.media.tumblr.com/avatar_54c679f7d1a4_128.png'
-  domain: emma-barone.tumblr.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://emma-barone.tumblr.com/post/141594497562/there-is-something-beautiful-about-a-blank'
+inLanguage: en
+starred: false
 keywords:
   - hares
   - auction
@@ -20,8 +16,14 @@ keywords:
   - emmabarone
   - exhibition
   - painting
-description: "ldquo;There is something beautiful about a blank canvas, the nothingness of the beginning that is so simple and breathtakingly pure. It's the paint that changes its meaning and the hand that creates the story."
-inLanguage: en
+description: "There is something beautiful about a blank canvas, the nothingness of the beginning that is so simple and breathtakingly pure. It's the paint that changes its meaning and the hand that creates the story."
+datePublished: '2016-03-24T22:56:50.324Z'
+dateModified: '2016-03-24T22:40:47.797Z'
+author:
+  - name: emma-barone
+    url: 'http://emma-barone.tumblr.com'
+    avatar: {}
+related: []
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=emma-barone&postID=141594497562'
     type: ios
@@ -56,15 +58,15 @@ app_links:
     package: '305343404'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://emma-barone.tumblr.com/post/141594497562/there-is-something-beautiful-about-a-blank'
-title: '&ldquo;There is something beautiful abou...'
-datePublished: '2016-03-24T14:05:37.150Z'
-dateModified: '2016-03-24T14:02:43.729Z'
+title: There is something beautiful about a blank canvas...
 sourcePath: _posts/2016-03-24-andldquothere-is-something-beautiful-abou.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tumblr
+  domain: emma-barone.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://33.media.tumblr.com/avatar_54c679f7d1a4_128.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
