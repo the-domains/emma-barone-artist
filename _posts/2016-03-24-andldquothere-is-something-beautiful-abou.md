@@ -17,8 +17,8 @@ keywords:
   - exhibition
   - painting
 description: "There is something beautiful about a blank canvas, the nothingness of the beginning that is so simple and breathtakingly pure. It's the paint that changes its meaning and the hand that creates the story."
-datePublished: '2016-03-24T22:56:50.324Z'
-dateModified: '2016-03-24T22:40:47.797Z'
+datePublished: '2016-03-24T23:13:30.939Z'
+dateModified: '2016-03-24T22:56:58.958Z'
 author:
   - name: emma-barone
     url: 'http://emma-barone.tumblr.com'
