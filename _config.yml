@@ -1,0 +1,28 @@
+name: Emma Barone Artist
+favicon: null
+layout_spectrum: 0.07460940582677722
+typography_spectrum: 0.2119954563677311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000004'
+    - '#fefffa'
+    - '#acc5bf'
+    - '#4b7585'
+    - '#6a3813'
+  brandStrength: 0.20665639638900757
+  lightness: 0.1875
+  saturation: 0.10616549872793257
+  rhythmicContrast: 0.24420912796631455
+purpose: []
