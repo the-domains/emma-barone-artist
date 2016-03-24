@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Putting in more content to spark it up... "Panthera Tigris" shoes by Emma Barone©2016'
-datePublished: '2016-03-24T10:46:42.847Z'
-dateModified: '2016-03-24T10:46:37.486Z'
-title: ''
+datePublished: '2016-03-24T12:09:41.213Z'
+dateModified: '2016-03-24T12:09:38.955Z'
+title: 'Shoe Painting '
 author: []
 sourcePath: _posts/2016-03-24-putting-in-more-content-to-spark-it-up-panthera-tigris.md
 published: true
@@ -27,4 +27,3 @@ _type: Article
 Putting in more content to spark it up... "Panthera Tigris" shoes by Emma Barone(c)2016
 
 \#EmmaBarone \#shoes \#artist
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756e13e6-4abe-42b7-b884-b8f2eecc282d.jpg)
