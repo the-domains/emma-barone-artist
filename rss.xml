@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Emma Barone Artist]]></title>
-        <description><![CDATA[Emma Barone Artist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Contemporary Visual Artist ]]></title>
+        <description><![CDATA[Contemporary Visual Artist ]]></description>
+        <link>https://thegrid.ai/emma-barone-artist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 10:19:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 10:43:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emma-barone-artist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Putting in more content to spark it up... "Panthera Tigris" shoes by Emma Barone©2016</p>]]></description>
+            <link>https://thegrid.ai/emma-barone-artist/putting-in-more-content-to-spark-it-up-panthera-tigris/index.html</link>
+            <guid isPermaLink="false">3e85f456-b985-4dbc-854d-8b0603f1e75c</guid>
+            <pubDate>Thu, 24 Mar 2016 10:43:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c40680d-72a7-436d-8e32-5e388a203130.jpg">]]></description>
-            <link>undefinedmy-first-post-on-the-grid-emmabarone-thegrid/index.html</link>
+            <link>https://thegrid.ai/emma-barone-artist/my-first-post-on-the-grid-emmabarone-thegrid/index.html</link>
             <guid isPermaLink="false">96551858-6652-4a5e-9c8c-04e8071d6940</guid>
             <pubDate>Thu, 24 Mar 2016 10:19:29 GMT</pubDate>
         </item>
