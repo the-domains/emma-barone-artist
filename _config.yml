@@ -24,6 +24,6 @@ color:
     - '#e9706d'
   brandStrength: 0
   lightness: 0.6875
-  saturation: 0.5625
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
