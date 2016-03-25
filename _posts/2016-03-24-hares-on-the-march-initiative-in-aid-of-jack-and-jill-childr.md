@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hares on the March initiative in aid of Jack and Jill Children's Foundation generated just over €63k at the live auction on 15th March and just over €85k via the online auction ended on Mon 21st Mar, which was is well over the estimated target."
-datePublished: '2016-03-24T23:27:05.240Z'
-dateModified: '2016-03-24T23:26:07.993Z'
+datePublished: '2016-03-25T09:30:55.020Z'
+dateModified: '2016-03-25T09:24:07.861Z'
 author:
   - name: Emma Barone
     url: 'http://facebook.com/124849514214438'
